@@ -1,0 +1,2 @@
+# SALT
+learning salt stack
